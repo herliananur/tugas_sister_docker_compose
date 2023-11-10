@@ -1,0 +1,11 @@
+services:
+
+  # ini adalah sisterdockercompose nginx
+  nginx-sisterdockercompose:
+    image: nginx:latest
+    container_name: nginx-sisterdockercompose
+
+  #ini adalah sisterdockercompose mongodb
+  mongodb-sisterdockercompose:
+    image: mongo:latest
+    container_name: mongodb-sisterdockercompose

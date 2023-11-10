@@ -1,0 +1,17 @@
+firstName: Herliana
+middleName: Nur
+lastName: Ekawati
+hobbies:
+  - Coding
+  - Reading
+  - Crocheting
+address:
+  street: Jalan Projakal
+  city: Ba likpapan
+  province: Kalimantan Timur
+  country: Indonesia
+wallet:
+  - type: cash
+    amount: 100000
+  - type: debit
+    amount: 200000

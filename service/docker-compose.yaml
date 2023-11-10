@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  nginx-sisterdockercompose:
+    image: nginx:latest
+    container_name: nginx-sisterdockercompose
+  mongodb-sisterdockercompose:
+    image: mongo:latest
+    container_name: mongodb-sisterdockercompose
